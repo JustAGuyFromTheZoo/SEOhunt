@@ -151,7 +151,7 @@ Telegram-интерфейс:
 
 ## Автор
 
-**RedStyle**
+**RedStyle (JustAGuyFromTheZoo)**
 
 ---
 
